@@ -2,9 +2,9 @@
 
 <a href="https://www.linkedin.com/in/ankush-singh-b6ba4116b//">
   <img align="left" alt="Ankush's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
-  <a href="">
+  <a href="https://ankushsingh21.github.io/ProfolioWebsite/">
   <img align="left" alt="Ankush's Website" width="30px" src="./website.png" /></a>
-<a href="https://ankushsingh21.github.io/ProfolioWebsite/">
+<a href="https://twitter.com/ScriptBy_Ankush">
   <img align="left" alt="Ankush singh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
