@@ -17,7 +17,8 @@ I am also an open-source enthusiast and commit to contribute more in 2021 . I le
   <img align="right" alt="GIF" src="https://github.com/Ankushsingh21/Ankushsingh21/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/ScriptBy_Ankush);
+- 📫 How to reach me: [singhankush9666@gmail.com](singhankush9666@gmail.com);
+- 📫 How to reach me: [@ScriptBy_Ankush](https://twitter.com/ScriptBy_Ankush);
 - 📝 [Resume](https://drive.google.com/file/d/1krrqb8aTJDcqxH2kz7EBQRcrxW_VJLqX/view?usp=sharing)
 
 **Languages and Tools:**
@@ -56,8 +57,11 @@ JSX          3 hrs 27 mins   ████▓░░░░░░░░░░░░
 <!-- TODO-IST:START -->
 
 🏆 contribute more in 2021
+<br/>
 🌸 Completed 2 tasks today  
+<br/>
 ✅ learn AI/ML
+<br/>
 ⏳ Longest streak is 10 days
 
 <!-- TODO-IST:END -->
