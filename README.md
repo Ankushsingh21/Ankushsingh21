@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/ankush-singh-b6ba4116b//">
-  <img align="left" alt="Ankush's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+  <img align="left" alt="Ankush's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
   <a href="">
   <img align="left" alt="Ankush's LinkedIN" width="22px" src="./website.png" /></a>
 <a href="https://ankushsingh21.github.io/ProfolioWebsite/">
