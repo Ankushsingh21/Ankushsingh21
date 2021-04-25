@@ -56,10 +56,9 @@ JSX          3 hrs 27 mins   ████▓░░░░░░░░░░░░
 
 <!-- TODO-IST:START -->
 
-🏆 contribute more in 2021
+🏆 Contribute more in 2021
 <br/>
 🌸 Completed 2 tasks today  
-<br/>
 ✅ learn AI/ML
 <br/>
 ⏳ Longest streak is 10 days
