@@ -1,5 +1,5 @@
 
-# Hi there, I'm Ankush Singh �� 
+# Hi there, I'm Ankush Singh 👋
 
 <p align="left">
   <a href="https://linkedin.com/in/ankush-singh-b6ba4116b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -10,19 +10,19 @@
 
 ---
 
-### �� Senior Software Engineer & AI Systems Architect
+### 🚀 Senior Software Engineer & AI Systems Architect
 
 I am a product-focused **Senior Backend Engineer & AI Solutions Architect** with **5 years of experience** designing high-throughput distributed architectures, secure transaction layers, and intelligent automation systems. 
 
 Having worked **100% remotely for premium global enterprise clients** across the US, UK, and Middle East, I specialize in eliminating architectural bottlenecks, scaling massive event-driven streaming data pipelines, and bridging enterprise backend ecosystems with cutting-edge AI orchestration engines.
 
-- �� **Enterprise Core:** Engineered secure financial workflows for **New York Life Insurance** and delivered **300+ core banking APIs** via Kubernetes for **Capital Bank of Jordan**.
-- �� **GenAI Integration:** Developed autonomous agentic workflows combining the **Gemini API, LangGraph, and Azure DevOps** to eliminate enterprise engineering triage overhead.
-- �� **Global Execution:** Deeply experienced in asynchronous remote culture, clean system design documentation, and strict zero-trust security compliance.
+- 🏦 **Enterprise Core:** Engineered secure financial workflows for **New York Life Insurance** and delivered **300+ core banking APIs** via Kubernetes for **Capital Bank of Jordan**.
+- 🧠 **GenAI Integration:** Developed autonomous agentic workflows combining the **Gemini API, LangGraph, and Azure DevOps** to eliminate enterprise engineering triage overhead.
+- 🌎 **Global Execution:** Deeply experienced in asynchronous remote culture, clean system design documentation, and strict zero-trust security compliance.
 
 ---
 
-### ��️ Core Stack & Ecosystem
+### 🛠️ Core Stack & Ecosystem
 
 <p align="left">
   <!-- Backend & Languages -->
@@ -54,7 +54,7 @@ Having worked **100% remotely for premium global enterprise clients** across the
 
 ---
 
-### �� Real-Time Development Metrics
+### 📊 Real-Time Development Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ankushsingh21&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Ankush's GitHub Stats" width="48%" />
