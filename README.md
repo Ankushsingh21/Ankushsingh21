@@ -57,8 +57,8 @@ Having worked **100% remotely for premium global enterprise clients** across the
 ### 📊 Real-Time Development Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankushsingh21&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Ankush's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankushsingh21&layout=compact&theme=gotham&langs_count=6" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Ankushsingh21&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Ankush's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ankushsingh21&layout=compact&theme=gotham&langs_count=6" alt="Top Languages" width="48%" />
 </p>
 
 ---
