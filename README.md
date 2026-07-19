@@ -1,87 +1,72 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://www.linkedin.com/in/ankush-singh-b6ba4116b//">
-  <img align="left" alt="Ankush's LinkedIN" width="22px" src="./LI-In-Bug.png" /></a>
-  <a href="https://ankushsingh21.github.io/ProfolioWebsite/">
-  <img align="left" alt="Ankush's Website" width="30px" src="./website.png" /></a>
-<a href="https://twitter.com/ScriptBy_Ankush">
-  <img align="left" alt="Ankush singh | Twitter" width="22px" src="./logo-white.png" />
-</a>
+# Hi there, I'm Ankush Singh �� 
 
-![](https://visitor-badge.glitch.me/badge?page_id=Ankushsingh21.Ankushsingh21)
+<p align="left">
+  <a href="https://linkedin.com/in/ankush-singh-b6ba4116b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://ankushsingh21.github.io/ProfolioWebsite/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=xoops&logoColor=white" alt="Website" /></a>
+  <a href="https://twitter.com/ScriptBy_Ankush"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="mailto:singhankush9666@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-<br />
+---
 
-Hi, I'm [Ankush Singh](https://ankushsingh21.github.io/ProfolioWebsite/), aI am a results-driven Software Engineer with over 3 years of experience specializing in MuleSoft development and cloud computing. With a Bachelor's degree in Computer Science Engineering and a focus on cloud technologies, I have honed my expertise in designing and implementing scalable, cloud-based solutions using top industry tools and platforms.
+### �� Senior Software Engineer & AI Systems Architect
 
-My technical skills include proficiency in MuleSoft, Java, Anypoint Platform (iPaaS), and major cloud platforms like AWS, GCP, and Azure. I have hands-on experience with Docker, Kubernetes, and CI/CD pipelines, leveraging tools such as Jenkins for efficient, automated deployments. My background also includes solid experience with REST and SOAP APIs, Python, SQL, HTML/CSS, JavaScript, and version control using Git/GitHub.
+I am a product-focused **Senior Backend Engineer & AI Solutions Architect** with **5 years of experience** designing high-throughput distributed architectures, secure transaction layers, and intelligent automation systems. 
 
-Beyond technical expertise, I bring strong leadership, time management, and negotiation skills to the table. My experience as a national-level speaker has allowed me to sharpen my communication abilities, empowering me to collaborate effectively with cross-functional teams and drive project success.
+Having worked **100% remotely for premium global enterprise clients** across the US, UK, and Middle East, I specialize in eliminating architectural bottlenecks, scaling massive event-driven streaming data pipelines, and bridging enterprise backend ecosystems with cutting-edge AI orchestration engines.
 
-Currently working as a Digital Engineer at NTT DATA and formerly a Senior Software Engineer at Apisero, I am passionate about solving complex technical challenges, optimizing cloud infrastructure, and enabling businesses to thrive through digital transformation. My goal is to continue growing my expertise in cloud integration, MuleSoft architecture, and DevOps, while contributing to innovative solutions that shape the future of technology.
+- �� **Enterprise Core:** Engineered secure financial workflows for **New York Life Insurance** and delivered **300+ core banking APIs** via Kubernetes for **Capital Bank of Jordan**.
+- �� **GenAI Integration:** Developed autonomous agentic workflows combining the **Gemini API, LangGraph, and Azure DevOps** to eliminate enterprise engineering triage overhead.
+- �� **Global Execution:** Deeply experienced in asynchronous remote culture, clean system design documentation, and strict zero-trust security compliance.
 
-Key Specializations & Certifications:
+---
 
-1. MuleSoft Development & Architecture
-2. Cloud Platforms: AWS, GCP, Azure
-3. Containerization: Docker, Kubernetes
-4. CI/CD Automation: Jenkins
-5. API Development: REST, SOAP
+### ��️ Core Stack & Ecosystem
 
-I’m always open to networking with professionals in the cloud computing, integration, and software engineering space. Let’s connect!
+<p align="left">
+  <!-- Backend & Languages -->
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <br/>
+  <!-- Data & Messaging -->
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/graphql-%23E10098.svg?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
+  <br/>
+  <!-- Cloud & DevOps -->
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/azure-%230089D6.svg?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/gcp-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <br/>
+  <!-- Integration & AI -->
+  <img src="https://img.shields.io/badge/MuleSoft-00A2DF?style=flat-square&logo=mulesoft&logoColor=white" alt="MuleSoft" />
+  <img src="https://img.shields.io/badge/Salesforce-00A4E4?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+</p>
 
-  <img align="right" alt="GIF" src="https://github.com/Ankushsingh21/Ankushsingh21/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [singhankush9666@gmail.com](singhankush9666@gmail.com);
-- 📫 How to reach me: [@ScriptBy_Ankush](https://twitter.com/ScriptBy_Ankush);
-- 📝 [Resume](https://drive.google.com/file/d/1krrqb8aTJDcqxH2kz7EBQRcrxW_VJLqX/view?usp=sharing)
+---
 
-**Languages and Tools:**
+### �� Real-Time Development Metrics
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankushsingh21&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Ankush's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankushsingh21&layout=compact&theme=gotham&langs_count=6" alt="Top Languages" width="48%" />
+</p>
 
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code> -->
+---
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code> -->
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="./GCP.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
-
-📊 **This Week I Spent My Time On:**
+### ⚡ Weekly Activity Breakdown
 
 <!--START_SECTION:waka-->
-
 ```text
-MuleSoft   10 hrs 28 mins  ██████████████▒░░░░░░░░░░   70.76 %
-JAVA       9 hrs 10 mins  ██████████████▒░░░░░░░░░░   60.76 %
-Cloud Computing  4 hrs 12 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.17 %
-CI/CD      3 hrs 27 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.04 %
-```
-
-<!--END_SECTION:waka-->
-
-🚧 **My Todoist Stats:**
-
-<!-- TODO-IST:START -->
-
-🏆 Contribute more in 2024
-<br/>
-🌸 Completed 2 tasks today  
-✅ learn AI/ML
-<br/>
-⏳ Longest streak is 10 days
-
-<!-- TODO-IST:END -->
-
-📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ankushsingh21&show_icons=true&theme=gotham" alt="Ankush singh" />
+Java / Spring Boot     14 hrs 45 mins   █████████████████░░░░░░░░░   55.4%
+Systems & Architecture  8 hrs 12 mins   ██████████░░░░░░░░░░░░░░░░   30.2%
+AI / LLM Orchestration  3 hrs 50 mins   ████░░░░░░░░░░░░░░░░░░░░░░   14.4%
