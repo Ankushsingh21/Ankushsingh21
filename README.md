@@ -65,8 +65,8 @@ Having worked **100% remotely for premium global enterprise clients** across the
 
 ### ⚡ Weekly Activity Breakdown
 
-<!--START_SECTION:waka-->
 ```text
-Java / Spring Boot     14 hrs 45 mins   █████████████████░░░░░░░░░   55.4%
-Systems & Architecture  8 hrs 12 mins   ██████████░░░░░░░░░░░░░░░░   30.2%
-AI / LLM Orchestration  3 hrs 50 mins   ████░░░░░░░░░░░░░░░░░░░░░░   14.4%
+Java / Spring Boot       14 hrs 45 mins   █████████████████░░░░░░░░░   55.4%
+Systems & Architecture    8 hrs 12 mins   ██████████░░░░░░░░░░░░░░░░   30.2%
+AI / LLM Orchestration    3 hrs 50 mins   ████░░░░░░░░░░░░░░░░░░░░░░   14.4%
+```
